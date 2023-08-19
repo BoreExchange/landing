@@ -119,8 +119,8 @@ const MintArea = () => {
             />
             <SingleMintItem
               icon="03"
-              title="OBB Token & Gold Custody"
-              subtitle="The OBB Token serves as the governance cryptocurrency of the Bore ecosystem. Users can invest, stake, and even cash out their OBB tokens for real gold, custodied in Africa, providing a unique investment avenue."
+              title="BGC Token & Gold Custody"
+              subtitle="The BGC Token serves as the governance cryptocurrency of the Bore ecosystem. Users can invest, stake, and even cash out their BGC tokens for real gold, custodied in Africa, providing a unique investment avenue."
             />
             <SingleMintItem
               icon="04"
