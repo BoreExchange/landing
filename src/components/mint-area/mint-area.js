@@ -115,7 +115,7 @@ const MintArea = () => {
             <SingleMintItem
               icon="02"
               title="Bore Money Mobile App"
-              subtitle="A comprehensive mobile application available on Apple Store and Google Play, allowing users to send and receive money across borders with minimal fees. Integrated with the Bore Exchange, it also offers trading functionalities."
+              subtitle="A comprehensive mobile application available on Apple Store and Google Play, allowing users to send,receive & cashout portfolios across borders with best in Market competitive rates. Our pride lies in well-established in-house partnerships with leading global financial institutions. Additionally, Bore Money will function as a DApp accessible on browsers."
             />
             <SingleMintItem
               icon="03"
