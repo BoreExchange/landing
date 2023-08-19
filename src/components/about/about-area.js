@@ -48,7 +48,7 @@ const AboutArea = () => {
                     </p>
                   </div>
                   <div className="about__fact-item">
-                    <h3 className="count">2.5x</h3>
+                    <h3 className="count">3x</h3>
                     <p>Faster Transactions Across Crypto & Fiat Currencies</p>
                   </div>
                 </div>
