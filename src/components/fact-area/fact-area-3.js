@@ -42,7 +42,7 @@ const FactAreaThree = () => {
             <SingleFactItem count="400k+" meta="Wallets Connected" />
             <SingleFactItem count="20k+" meta="Collections dropped." />
             <SingleFactItem count="230+" meta="Creative artists" />
-            <SingleFactItem count="2.5x" meta="Estimated value" />
+            <SingleFactItem count="3x" meta="Estimated value" />
 
           </div>
         </div>
