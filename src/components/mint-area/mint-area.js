@@ -115,12 +115,12 @@ const MintArea = () => {
             <SingleMintItem
               icon="02"
               title="Bore Money Mobile App"
-              subtitle="A comprehensive mobile application available on Apple Store and Google Play, allowing users to send,receive & cashout portfolios across borders with best in Market competitive rates. Our pride lies in well-established in-house partnerships with leading global financial institutions. Additionally, Bore Money will function as a DApp accessible on browsers."
+              subtitle="A comprehensive mobile application available on Apple Store and Google Play, allowing users to send and receive money across borders with minimal fees. Integrated with the Bore Exchange, it also offers trading functionalities."
             />
             <SingleMintItem
               icon="03"
-              title="BGC Token & Gold Custody"
-              subtitle="The BGC Token serves as the governance cryptocurrency of the Bore ecosystem. Users can invest, stake, and even cash out their BGC tokens for real gold, custodied in Africa, providing a unique investment avenue."
+              title="Ecosystem Tokens"
+              subtitle="The OBB coin is the major governance cryptocurrency of the ecosystem and it’s been used across all Bore’s ecosystem products & solutions. The BGC gold backed tradable coin of the Bore ecosystem. Users can invest, stake, and even cash out their BGC tokens for real gold, custodied in refineries in Africa, providing a unique investment avenue."
             />
             <SingleMintItem
               icon="04"
