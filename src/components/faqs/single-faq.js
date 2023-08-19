@@ -3,8 +3,8 @@ import React from "react"
 const SingleFaq = ({ item }) => {
   const { title, desc, id, show, parent,desc_2 } = item || {}
   return (
-    <section id="faq">
-    <div className="accordion-item">
+   
+    <div section id="faq" className="accordion-item">
       <h2 className="accordion-header" id={`heading${id}`}>
         <button
           className={`accordion-button ${show ? "" : "collapsed"}`}
