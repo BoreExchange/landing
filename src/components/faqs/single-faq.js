@@ -3,6 +3,7 @@ import React from "react"
 const SingleFaq = ({ item }) => {
   const { title, desc, id, show, parent,desc_2 } = item || {}
   return (
+    <section id="faq">
     <div className="accordion-item">
       <h2 className="accordion-header" id={`heading${id}`}>
         <button
@@ -28,6 +29,7 @@ const SingleFaq = ({ item }) => {
         </div>
       </div>
     </div>
+     </section>
   )
 }
 
