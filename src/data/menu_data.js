@@ -22,8 +22,8 @@ export const menu_data = [
   },
   {
     id: 5,
-    title: 'Blog',
-    link: '/blog',
+    title: 'Faq',
+    link: '/faq',
   },
 ]
 // menu data 2
@@ -51,8 +51,8 @@ export const menu_data_2 = [
   },
   {
     id: 5,
-    title: 'Blog',
-    link: '/blog',
+    title: 'Faq',
+    link: '/faq',
   },
 ]
 
@@ -83,7 +83,7 @@ export const menu_data_3 = [
   },
   {
     id: 5,
-    title: 'Blog',
-    link: '/blog',
+    title: 'FAQ',
+    link: '/faq',
   },
 ]
