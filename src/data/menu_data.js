@@ -23,7 +23,7 @@ export const menu_data = [
   {
     id: 5,
     title: 'Faq',
-    link: '/faq',
+    link: 'faq',
   },
 ]
 // menu data 2
@@ -52,7 +52,7 @@ export const menu_data_2 = [
   {
     id: 5,
     title: 'Faq',
-    link: '/faq',
+    link: 'faq',
   },
 ]
 
@@ -84,6 +84,6 @@ export const menu_data_3 = [
   {
     id: 5,
     title: 'FAQ',
-    link: '/faq',
+    link: 'faq',
   },
 ]
