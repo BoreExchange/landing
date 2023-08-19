@@ -35,12 +35,16 @@ const CtaArea = () => {
                 alt="Object"
                 style={{bottom:'16%',left:'-8%'}}
               />
-              <h2 className="accordion-header">Begin Your Journey in Digital Wealth</h2>
-              <br>
-              <br>
-              <a href="#" className="btn gradient-btn">
-                Join community
-              </a>
+              <a
+                  href="#"
+                  target="_blank"
+                  className="banner__btn btn gradient-btn"
+                >
+                  <span>Join the Community</span>{" "}
+                  <i className="unicon-arrow-right"></i>
+                </a>
+              </div>
+            </div>
             </div>
           </div>
         </div>
