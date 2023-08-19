@@ -29,7 +29,7 @@ const SingleFaq = ({ item }) => {
         </div>
       </div>
     </div>
-     </section>
+     
   )
 }
 
