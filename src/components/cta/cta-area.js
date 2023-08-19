@@ -36,6 +36,8 @@ const CtaArea = () => {
                 style={{bottom:'16%',left:'-8%'}}
               />
               <h2 className="accordion-header">Begin Your Journey in Digital Wealth</h2>
+              <br>
+              <br>
               <a href="#" className="btn gradient-btn">
                 Join community
               </a>
