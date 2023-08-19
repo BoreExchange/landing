@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 
 const CtaArea = () => {
   return (
@@ -15,42 +15,40 @@ const CtaArea = () => {
                 src="assets/img/objects/circle-01.png"
                 width="24"
                 alt="Object"
-                style={{top:'0%',left:'-16%'}}
+                style={{ top: "0%", left: "-16%" }}
               />
               <img
                 src="assets/img/objects/x.png"
                 width="24"
                 alt="Object"
-                style={{bottom:'16%',right:'-8%'}}
+                style={{ bottom: "16%", right: "-8%" }}
               />
               <img
                 src="assets/img/objects/ethereum-02.png"
                 width="40"
                 alt="Object"
-                style={{top:'0%',right:'-16%'}}
+                style={{ top: "0%", right: "-16%" }}
               />
               <img
                 src="assets/img/objects/bitcoin-01.png"
                 width="48"
                 alt="Object"
-                style={{bottom:'16%',left:'-8%'}}
+                style={{ bottom: "16%", left: "-8%" }}
               />
               <a
-                  href="#"
-                  target="_blank"
-                  className="banner__btn btn gradient-btn"
-                >
-                  <span>Join the Community</span>{" "}
-                  <i className="unicon-arrow-right"></i>
-                </a>
-              </div>
-            </div>
+                href="#"
+                target="_blank"
+                className="banner__btn btn gradient-btn"
+              >
+                <span>Join the Community</span>{" "}
+                <i className="unicon-arrow-right"></i>
+              </a>
             </div>
           </div>
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default CtaArea
+export default CtaArea;
