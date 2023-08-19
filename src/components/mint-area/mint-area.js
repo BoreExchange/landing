@@ -119,7 +119,7 @@ const MintArea = () => {
             />
             <SingleMintItem
               icon="03"
-              title="Ecosystem Tokens"
+              title="Ecosystem Tokens (OBB & BGC)"
               subtitle="The OBB coin is the major governance cryptocurrency of the ecosystem and it’s been used across all Bore’s ecosystem products & solutions. The BGC gold backed tradable coin of the Bore ecosystem. Users can invest, stake, and even cash out their BGC tokens for real gold, custodied in refineries in Africa, providing a unique investment avenue."
             />
             <SingleMintItem
