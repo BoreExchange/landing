@@ -25,8 +25,8 @@ const faq_items = [
   },
   {
     id: "Four",
-    title: "What is the OBB Token, and how can I use it to cash out for real gold?",
-    desc: "OBB Token is the governance cryptocurrency of the Bore ecosystem. It offers unique value by allowing users to cash out their tokens for real gold custodied in Africa. To do so, users must follow the specific process outlined on our platform, which includes verifying identity and complying with applicable regulations.",
+    title: "What is the BGC Token, and how can I use it to cash out for real gold?",
+    desc: "BGC Token is the governance cryptocurrency of the Bore ecosystem. It offers unique value by allowing users to cash out their tokens for real gold custodied in Africa. To do so, users must follow the specific process outlined on our platform, which includes verifying identity and complying with applicable regulations.",
     parent: "accordionFaq",
   },
   {
