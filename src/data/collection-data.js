@@ -37,7 +37,7 @@ const collection_data = [
   },
   {
     id:7,
-    img:'/assets/img/artwork/12.jpg',
+    img:'/assets/img/artwork/007.jpg',
     name:'Paradise',
     author:'CryptoX'
   },
