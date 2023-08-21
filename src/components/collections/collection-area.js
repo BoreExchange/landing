@@ -12,7 +12,7 @@ const CollectionArea = () => {
         >
           <div className="col-xl-8 col-lg-10">
             <div className="section__title text-center title-mb-65">
-              <h2 className="title">Latest artworks</h2>
+              <h2 className="title">Humanitarian</h2>
             </div>
           </div>
         </div>
