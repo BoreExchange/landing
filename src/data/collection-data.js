@@ -43,7 +43,7 @@ const collection_data = [
   },
   {
     id:8,
-    img:'/assets/img/artwork/10.jpg',
+    img:'/assets/img/artwork/008.jpg',
     name:'HighTown',
     author:'TheSalvare'
   },
