@@ -31,7 +31,7 @@ const HomePage = () => {
       <SectionDivider />
       <RoadMapArea/>
       <SectionDivider />
-      <TeamArea/>
+      
       <SectionDivider />
       <FaqArea/>
       <SectionDivider />

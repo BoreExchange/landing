@@ -3,7 +3,7 @@ const team_data = [
     id:2,
     img:'/assets/img/team/03.png',
     name:'Oba Bore',
-    designation:'Founder',
+    designation:'CEO & Founder',
     social_links: [
       { link: 'http://twitter.com', icon: 'fab fa-linkedin', name: 'Linkedin' },
       { link: 'https://www.instagram.com/', icon: 'fab fa-instagram', name: 'Instagram' },
@@ -13,7 +13,7 @@ const team_data = [
   {
     id:3,
     img:'/assets/img/team/01.png',
-    name:'Ben J',
+    name:'Bernard Jarjour',
     designation:'Developer',
     social_links: [
       { link: 'http://twitter.com', icon: 'fab fa-linkedin', name: 'Linkedin' },
@@ -23,9 +23,9 @@ const team_data = [
   },
   {
     id:1,
-    img:'/assets/img/team/02.png',
-    name:'Steps Jobs',
-    designation:'Artist',
+    img:'/assets/img/team/08.png',
+    name:'Emmanuel Kiprop',
+    designation:'CMO',
     social_links: [
       { link: 'http://twitter.com', icon: 'fab fa-twitter', name: 'Twitter' },
       { link: 'https://www.instagram.com/', icon: 'fab fa-instagram', name: 'Instagram' },
@@ -36,8 +36,8 @@ const team_data = [
   {
     id:4,
     img:'/assets/img/team/04.png',
-    name:'Laila Ed',
-    designation:'Artist',
+    name:'Victorious Flourish',
+    designation:'Director',
     social_links: [
       { link: 'http://twitter.com', icon: 'fab fa-twitter', name: 'Twitter' },
       { link: 'https://www.instagram.com/', icon: 'fab fa-instagram', name: 'Instagram' },
@@ -47,8 +47,8 @@ const team_data = [
   {
     id:5,
     img:'/assets/img/team/05.png',
-    name:'Almaktari',
-    designation:'Artist',
+    name:'Queen Esther',
+    designation:'Director',
     social_links: [
       { link: 'http://twitter.com', icon: 'fab fa-twitter', name: 'Twitter' },
       { link: 'https://www.instagram.com/', icon: 'fab fa-instagram', name: 'Instagram' },
@@ -57,9 +57,20 @@ const team_data = [
   },
   {
     id:6,
+    img:'/assets/img/team/01.png',
+    name:'Adewumi Isaiah',
+    designation:'Developer',
+    social_links: [
+      { link: 'http://twitter.com', icon: 'fab fa-twitter', name: 'Twitter' },
+      { link: 'https://www.instagram.com/', icon: 'fab fa-instagram', name: 'Instagram' },
+      { link: 'https://discord.com/', icon: 'fab fa-discord', name: "Discord" },
+    ],
+  },
+  {
+    id:7,
     img:'/assets/img/team/06.png',
-    name:'Harry Nikon',
-    designation:'Manager',
+    name:'Tresha Dunlap',
+    designation:'Director',
     social_links: [
       { link: 'http://twitter.com', icon: 'fab fa-twitter', name: 'Twitter' },
       { link: 'https://www.instagram.com/', icon: 'fab fa-instagram', name: 'Instagram' },
