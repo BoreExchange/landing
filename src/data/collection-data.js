@@ -25,7 +25,7 @@ const collection_data = [
   },
   {
     id:5,
-    img:'/assets/img/artwork/01.jpg',
+    img:'/assets/img/artwork/005.jpg',
     name:'Saphyre',
     author:'CryptoX'
   },
