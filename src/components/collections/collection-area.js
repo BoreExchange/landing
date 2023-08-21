@@ -35,7 +35,7 @@ const CollectionArea = () => {
             target="_blank"
             className="btn gradient-btn"
           >
-            <span>View more in OPENSEA</span>{" "}
+            <span>Join IDO</span>{" "}
             <i className="unicon-arrow-right"></i>
           </a>
         </div>
