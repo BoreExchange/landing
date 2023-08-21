@@ -26,26 +26,26 @@ const collection_data = [
   {
     id:5,
     img:'/assets/img/artwork/005.jpg',
-    name:'Saphyre',
-    author:'CryptoX'
+    name:'Charity',
+    author:'Bore'
   },
   {
     id:6,
     img:'/assets/img/artwork/006.jpg',
-    name:'Charcuterie',
-    author:'Texira'
+    name:'Charity',
+    author:'Bore'
   },
   {
     id:7,
     img:'/assets/img/artwork/007.jpg',
-    name:'Paradise',
-    author:'CryptoX'
+    name:'Charity',
+    author:'Bore'
   },
   {
     id:8,
     img:'/assets/img/artwork/008.jpg',
-    name:'HighTown',
-    author:'TheSalvare'
+    name:'Charity',
+    author:'Bore'
   },
 ]
 
