@@ -1,7 +1,7 @@
 const team_data = [
   {
     id:2,
-    img:'/assets/img/team/bore.png',
+    img:'/assets/img/team/03.png',
     name:'Oba Bore',
     designation:'Founder',
     social_links: [
