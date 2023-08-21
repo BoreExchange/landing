@@ -7,7 +7,7 @@ const collection_data = [
   },
   {
     id:2,
-    img:'/assets/img/artwork/07.jpg',
+    img:'/assets/img/artwork/002.png',
     name:'Polly Doll',
     author:'TheNative'
   },
