@@ -8,20 +8,20 @@ const collection_data = [
   {
     id:2,
     img:'/assets/img/artwork/002.png',
-    name:'Polly Doll',
-    author:'TheNative'
+    name:'Orientation - Africa',
+    author:'Bore'
   },
   {
     id:3,
     img:'/assets/img/artwork/003.png',
-    name:'Alec Art',
-    author:'GeorgZvic'
+    name:'Women empowerment',
+    author:'Bore'
   },
   {
     id:4,
     img:'/assets/img/artwork/004.jpg',
-    name:'Toxic Poeth',
-    author:'YazoiLup'
+    name:'Sensitization',
+    author:'Bore'
   },
   {
     id:5,
