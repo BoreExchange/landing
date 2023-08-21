@@ -27,7 +27,7 @@ const HomePage = () => {
       <SectionDivider />
       <AboutArea />
       <SectionDivider />
-     
+     <CollectionArea />
       <SectionDivider />
       <RoadMapArea/>
       <SectionDivider />
