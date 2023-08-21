@@ -1,7 +1,7 @@
 const collection_data = [
   {
     id:1,
-    img:'/assets/img/artwork/06.jpg',
+    img:'/assets/img/artwork/001.jpg',
     name:'Metaverse',
     author:'TheSalvare'
   },
