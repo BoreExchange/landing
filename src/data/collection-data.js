@@ -31,7 +31,7 @@ const collection_data = [
   },
   {
     id:6,
-    img:'/assets/img/artwork/13.jpg',
+    img:'/assets/img/artwork/006.jpg',
     name:'Charcuterie',
     author:'Texira'
   },
