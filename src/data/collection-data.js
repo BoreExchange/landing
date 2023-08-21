@@ -13,7 +13,7 @@ const collection_data = [
   },
   {
     id:3,
-    img:'/assets/img/artwork/16.jpg',
+    img:'/assets/img/artwork/003.png',
     name:'Alec Art',
     author:'GeorgZvic'
   },
