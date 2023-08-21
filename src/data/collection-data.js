@@ -2,8 +2,8 @@ const collection_data = [
   {
     id:1,
     img:'/assets/img/artwork/001.png',
-    name:'Metaverse',
-    author:'TheSalvare'
+    name:'Orientation - Africa',
+    author:'Bore'
   },
   {
     id:2,
