@@ -61,7 +61,7 @@ const HeroArea = () => {
                   target="_blank"
                   className="banner__btn btn gradient-btn"
                 >
-                  <span>IDO Coming Soon</span>{" "}
+                  <span>Join IDO</span>{" "}
                   <i className="unicon-arrow-right"></i>
                 </a>
               </div>
