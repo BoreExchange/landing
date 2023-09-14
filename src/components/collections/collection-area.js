@@ -31,7 +31,7 @@ const CollectionArea = () => {
           data-anime="opacity:[0, 1]; translateY:[-24, 0]; onview: true; delay: 200;"
         >
           <a
-            href="https://opensea.io/"
+            href="https://ido.bore.exchange"
             target="_blank"
             className="btn gradient-btn"
           >
