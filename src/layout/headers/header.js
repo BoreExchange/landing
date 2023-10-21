@@ -149,7 +149,7 @@ const Header = ({ blog_page }) => {
                         <button
                           className="btn border-btn"
                           data-bs-toggle="modal"
-                          data-bs-target="#connectModal"
+                          data-bs-target="https://ido.bore.exchange"
                         >
                           Join IDO
                         </button>
