@@ -57,7 +57,7 @@ const HeroArea = () => {
                   Trade, Send, and Receive Money Seamlessly Across the Globe.
                 </p>
                 <a
-                  href="https://ido.bore.exchange"
+                  href="https://app.bore.exchange"
                   target="_blank"
                   className="banner__btn btn gradient-btn"
                 >
