@@ -136,23 +136,21 @@ const Header = ({ blog_page }) => {
                         <a href="#">
                           <i className="fab fa-discord"></i>
                         </a>
-                        <a
-                          href="#"
-                          className="d-blcok d-xl-none"
-                          data-bs-toggle="modal"
-                          data-bs-target="#connectModal"
-                        >
-                          <i className="fas fa-wallet"></i>
-                        </a>
+                      
+                       
+                        
+                       
                       </li>
+                          <a
                      <li className="header-btn">
                         <button
                           className="btn border-btn"
-                          data-bs-toggle="modal"
-                          data-bs-target="https://ido.bore.exchange"
+                         
+                          data-bs-target="https://app.bore.exchange"
                         >
-                          Join IDO
+                          Get Started
                         </button>
+                             </a>
                       </li>
                     </ul>
                   </div>
