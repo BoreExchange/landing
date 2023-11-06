@@ -141,17 +141,7 @@ const Header = ({ blog_page }) => {
                         
                        
                       </li>
-                          <a
-                     <li className="header-btn">
-                        <button
-                          className="btn border-btn"
                          
-                          data-bs-target="https://app.bore.exchange"
-                        >
-                          Get Started
-                        </button>
-                             </a>
-                      </li>
                     </ul>
                   </div>
                 </nav>
