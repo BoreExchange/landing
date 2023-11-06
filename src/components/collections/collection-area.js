@@ -31,11 +31,11 @@ const CollectionArea = () => {
           data-anime="opacity:[0, 1]; translateY:[-24, 0]; onview: true; delay: 200;"
         >
           <a
-            href="https://ido.bore.exchange"
+            href="https://app.bore.exchange"
             target="_blank"
             className="btn gradient-btn"
           >
-            <span>Join IDO</span>{" "}
+            <span>Get Started</span>{" "}
             <i className="unicon-arrow-right"></i>
           </a>
         </div>
