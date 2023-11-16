@@ -53,10 +53,10 @@ const Header = ({ blog_page }) => {
                 <nav className="tgmenu__nav">
                   <div className="logo">
                     <Link to="/" className="light-logo">
-                      <img src="/assets/img/logo/borewhite.png" alt="Bore" />
+                      <img src="/assets/img/logo/bore250.png" alt="Bore" />
                     </Link>
                     <Link to="/" className="dark-logo">
-                      <img src="/assets/img/logo/bore250.png" alt="Bore" />
+                      <img src="/assets/img/logo/borewhite.png" alt="Bore" />
                     </Link>
                   </div>
                   <div className="tgmenu__navbar-wrap tgmenu__main-menu d-none d-lg-flex">
