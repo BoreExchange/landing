@@ -21,7 +21,7 @@ const AboutArea = () => {
                 className="about__img"
                 data-anime="opacity:[0, 1]; translateX:[-24, 0]; onview: -250; delay: 200;"
               >
-                <img src="/assets/img/others/features-00.png" alt="img" />
+                <img src="/assets/img/bore.gif" alt="img" />
               </div>
             </div>
             <div className="col-lg-6">

@@ -1,19 +1,19 @@
 const collection_data = [
   {
     id:1,
-    img:'/assets/img/artwork/001.png',
+    img:'/assets/img/artwork/001.jpg',
     name:'Orientation - Africa',
     author:'Bore'
   },
   {
     id:2,
-    img:'/assets/img/artwork/002.png',
+    img:'/assets/img/artwork/002.jpg',
     name:'Orientation - Africa',
     author:'Bore'
   },
   {
     id:3,
-    img:'/assets/img/artwork/003.png',
+    img:'/assets/img/artwork/003.jpg',
     name:'Women empowerment',
     author:'Bore'
   },
