@@ -13,7 +13,7 @@ const collection_data = [
   },
   {
     id:3,
-    img:'/assets/img/artwork/0032.jpg',
+    img:'/assets/img/artwork/0033.jpg',
     name:'',
     author:'Bore'
   },
